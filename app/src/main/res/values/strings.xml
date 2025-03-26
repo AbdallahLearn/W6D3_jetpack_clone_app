@@ -1,0 +1,28 @@
+<resources>
+    <string name="app_name" translatable="false">W6D3_Assignment_clone</string>
+    <string name="skip">Skip</string>
+    <string name="numerous_free_trial_courses">Numerous free trial courses</string>
+    <string name="free_courses_message">Free courses for you to find your way to learning</string>
+    <string name="quick_easy_learning">Quick and easy learning</string>
+    <string name="easy_fast_learning">Easy and fast learning at any time to help you improve various skills</string>
+
+    <string name="create_study_plan">Create your own study plan</string>
+    <string name="study_plan_message">Study according to the study plan, make study more motivated</string>
+
+    <string name="sign_up">Sign up</string>
+    <string name="log_in">Log in</string>
+
+    <string name="sign_up_heading">Sign Up</string>
+    <string name="enter_details">Enter your details below</string>
+    <string name="your_email">Your Email</string>
+    <string name="password">Password</string>
+    <string name="create_account">Create account</string>
+    <string name="terms_conditions">By clicking create an account, you have to agree with our terms &amp; conditions</string>
+    <string name="already_have_account">Already have an account? Login</string>
+
+    <string name="login_heading">Login</string>
+    <string name="forgot_password">Forgot password?</string>
+    <string name="login_button">Log in</string>
+    <string name="no_account">Don\'t have an account? Sign up</string>
+    <string name="or_login_with">Or Login with</string>
+</resources>
